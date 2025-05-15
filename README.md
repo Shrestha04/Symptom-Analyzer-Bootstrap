@@ -44,8 +44,7 @@
 
 2. **Create a virtual environment**
 3. **Install dependencies:** pip install -r requirements.txt
-4. **Run the Flask app:** python app.py
-5. **Open your browser and go to http://localhost:500**
+4. **Run the Flask app:** python main.py
 
 ---
 
