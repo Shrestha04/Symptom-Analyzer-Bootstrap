@@ -40,11 +40,12 @@
 
 1. **Clone the repository**
    git clone https://github.com/Shrestha04/Symptom-Analyzer-Bootstrap.git
+   
    cd Symptom-Analyzer-Bootstrap
 
-2. **Create a virtual environment**
-3. **Install dependencies:** pip install -r requirements.txt
-4. **Run the Flask app:** python main.py
+3. **Create a virtual environment**
+4. **Install dependencies:** pip install -r requirements.txt
+5. **Run the Flask app:** python main.py
 
 ---
 
