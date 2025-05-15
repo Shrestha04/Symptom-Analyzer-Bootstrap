@@ -1,1 +1,1 @@
-# Symptom-Analyzer-Bootstrapp
+# Symptom-Analyzer-Bootstrap
